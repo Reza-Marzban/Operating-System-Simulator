@@ -1,0 +1,4 @@
+START
+L1		BR,		L2
+L2		BR,		L1
+		HLT,

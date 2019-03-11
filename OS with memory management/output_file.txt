@@ -1,0 +1,3 @@
+  
+Error While input spooling! 
+The Program terminated abnormally, due to: Error: The input is not in the right format!
